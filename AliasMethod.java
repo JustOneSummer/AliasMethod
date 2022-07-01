@@ -13,7 +13,6 @@
  *
  *                 http://www.keithschwarz.com/darts-dice-coins/
  */
-package com.shinoaki.module.wows.webwows.common.alias;
 
 import java.util.*;
 
